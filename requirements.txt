@@ -7,3 +7,5 @@ scipy
 joblib
 pyod
 ipykernel
+optuna
+lightgbm
